@@ -1,5 +1,5 @@
-import 'package:compendium/screens/home_screen.dart';
 import 'package:flutter/material.dart';
+import 'screens/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,7 +13,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData(
         brightness: Brightness.dark,
-        accentColor: Colors.white,
         visualDensity: VisualDensity.adaptivePlatformDensity
       ),
       home: HomeScreen(),
