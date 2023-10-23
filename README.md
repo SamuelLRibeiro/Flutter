@@ -10,3 +10,8 @@
 ## compendium:
 
 - It's the code of a personal app that I'm creating for listing magics from the Dungeons and Dragons game. Using the knowledge I'm getting from courses and the flutter documentation.
+
+
+## truques de rhion farynore:
+
+- An reading app for DND magics level 0 that I've developed".
