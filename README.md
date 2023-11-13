@@ -14,4 +14,4 @@
 
 ## truques de rhion farynore:
 
-- An reading app for DND magics level 0 that I've developed".
+- An reading app for DND magics level 0 that I've developed.
