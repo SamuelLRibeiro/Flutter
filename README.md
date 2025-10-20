@@ -27,4 +27,4 @@ A small but fun project designed to display and explore cantrips (basic spells) 
 ---
 
 ### Notes
-Each project has its own folder and README with specific details about installation, usage, and goals.
+Each project has its own folder
